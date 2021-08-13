@@ -1,4 +1,8 @@
 # relatime-chat-app
+All requirements:
+[ ] nodemon -> npm install -g nodemon
+[ ] express -> npm install express
+[ ] socket.io -> npm install socket.io
 -> Realtime chat App with node.js (express and socket.io)
 -> just use this command in your terminal:
  ```
