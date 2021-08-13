@@ -4,6 +4,6 @@
  ```
   > npm install && npm run start
  ```
- -> it will be start your server!
- -> Go ["http://localhost:3000/"](http://localhost:3000/)
+ -> it will be start your server!<br/>
+ -> Go ["http://localhost:3000/"](http://localhost:3000/)<br/>
  -> And chatting :) !
